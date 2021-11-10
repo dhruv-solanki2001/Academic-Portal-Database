@@ -22,6 +22,7 @@ A basic academic portal for an academic university using only database system fu
     dept_id VARCHAR(5) PRIMARY KEY,
     dept_name TEXT NOT NULL
     );
+    
     INSERT INTO departments(dept_id,dept_name)
     VALUES('cs','Computer Science');
 
