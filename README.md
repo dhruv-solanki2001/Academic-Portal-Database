@@ -16,7 +16,7 @@ A basic academic portal for an academic university using only database system fu
 > `departments` (dept_id, dept_name)
 
   For example :- 
-  ```postgresql
+  ```sql
     CREATE TABLE IF NOT EXISTS departments
     (
     dept_id VARCHAR(5) PRIMARY KEY,
