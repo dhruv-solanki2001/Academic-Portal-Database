@@ -4,7 +4,7 @@
 
 A basic academic portal for an academic university using only database system functionalities such as stored procedures & triggers.
 #
-<img src="https://media.giphy.com/media/kPrlykW2TpVU4HWx2O/giphy.gif" align="right" height="150px">
+<img src="https://media.giphy.com/media/kPrlykW2TpVU4HWx2O/giphy.gif" align="right" height="145px">
 
 | Name            | Entry No.   |
 | --------------- | ----------- |
