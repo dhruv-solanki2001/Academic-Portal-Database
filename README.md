@@ -1,8 +1,10 @@
 # Academic Portal Database
 
-## CS301 Databases Course Project (Phase A)
+## CS301 Databases Course Project
 
 A basic academic portal for an academic university using only database system functionalities such as stored procedures & triggers.
+#
+<img src="https://media.giphy.com/media/kPrlykW2TpVU4HWx2O/giphy.gif" align="right" height="150px">
 
 | Name            | Entry No.   |
 | --------------- | ----------- |
@@ -10,12 +12,15 @@ A basic academic portal for an academic university using only database system fu
 | Solanki Dhruv   | 2019CSB1122 |
 | Sudhanshu Kumar | 2019CSB1123 |
 
-### Relations & Schemas used in the project
+
+### Some basic Relations & Schemas used in the project
 
 - Departments (contains all departments of the academic institute)
 > `departments` (dept_id, dept_name)
 
+
   For example :- 
+  
   ```sql
     CREATE TABLE IF NOT EXISTS departments
     (
