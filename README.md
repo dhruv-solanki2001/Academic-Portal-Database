@@ -76,3 +76,5 @@ A basic academic portal for an academic university using only database system fu
 
 - UG Curriculum
 > Separate relations for various batches
+
+#### To view all the Stored Procedures, Relations & Triggers, find them in their appropriate folders.
