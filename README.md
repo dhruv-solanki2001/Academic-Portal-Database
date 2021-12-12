@@ -8,9 +8,9 @@ A basic academic portal for an academic university using only database system fu
 
 | Name            | Entry No.   |
 | --------------- | ----------- |
-| Ashish Sharma   | 2019MCB1213 |
-| Solanki Dhruv   | 2019CSB1122 |
-| Sudhanshu Kumar | 2019CSB1123 |
+| [Ashish Sharma](https://github.com/ash-mac)   | 2019MCB1213 |
+| [Solanki Dhruv](https://github.com/dhruv-solanki2001)   | 2019CSB1122 |
+| [Sudhanshu Kumar](https://github.com/sudhanshu-hbk) | 2019CSB1123 |
 
 
 ### Some basic Relations & Schemas used in the project
